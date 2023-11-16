@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    background-color: white;
+    height: 100px;
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+}
+
+.img{
+    height: 70px ;
+    width: 150px ;
+    margin-left: 10px;
+}
+
+.menu{
+    display: flex;
+    list-style: none;
+    margin-right: 300px;
+    margin-top: 40px;
+}
+
+.menu> li{
+    margin: 0 40px;
+    letter-spacing: 3px;
+    color: rgb(32, 32, 67);
+}
+.menu>u{
+    letter-spacing: 3px;
+}
+
+.star{
+    margin-right: 10px;
+}
+
+.word{
+   margin-right: 70px;
+}
+
+.img2{
+    margin-left: 6px;
+    margin-top: 25px;
+}
